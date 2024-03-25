@@ -1,0 +1,22 @@
+prompt for the website:
+I want you to act as a Senior Frontend developer. I will describe a project details you will code project with these tools: HTML, CSS,  and Vanilla JS(for adding some dynamic animations). You should write files separately and nothing else. Do not write explanations. This website must be responsive and mobile-first and you should also use the following Semantic HTML tags: header, main, nav, section, article, aside, and footer. My first request is create a website that is a portfolio gallery website where I will show some science fiction villains' photos and right above it there will be a text explanation. You must use flexbox for responsiveness. Can you build me this website?
+
+prompts for images:
+ 
+prompt 1:
+Create a science fiction villain, it does not need to be in human form 
+
+prompt 2:	
+Create a science fiction villian like a creature with a sleek, metallic exoskeleton, glowing red eyes, and tentacle-like appendages that can manipulate both technology and the minds of those it encounters.
+
+prompt 3:
+Create a science fiction villian with a dark, armored carapace, multiple glowing eyes that pierce through the shadows, and sharp, mechanical limbs that can morph into various tools for manipulation and combat. 
+
+prompt 4:
+Create a science fiction villian like a non-humanoid, featuring multiple tentacles, an asymmetrical body, and glowing eyes to evoke a sense of otherworldliness
+
+prompt 5:
+Create a science fiction villian a non-humanoid, faceless entity that exudes an aura of mystery and menace
+
+prompt 6:
+Create a science fiction villian like a non-humanoid spider like faceless entity
